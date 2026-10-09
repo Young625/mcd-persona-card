@@ -1,0 +1,473 @@
+{
+  "_meta": {
+    "note": "全部为虚构的演示数据，与任何真实用户无关；营养数值为近似值，仅供演示"
+  },
+  "now-time-info": {
+    "formatted": "2026-10-09 12:00:00"
+  },
+  "order-list": {
+    "list": [
+      {
+        "orderId": "DEMO0000",
+        "orderType": "2",
+        "createTime": "2026-09-26 08:29:03",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-1",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990002",
+            "productName": "早餐三件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900101",
+                "name": "猪柳蛋麦满分",
+                "quantity": 1
+              },
+              {
+                "productCode": "900102",
+                "name": "脆薯饼",
+                "quantity": 1
+              },
+              {
+                "productCode": "900103",
+                "name": "优品豆浆小杯",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0001",
+        "orderType": "2",
+        "createTime": "2026-09-05 08:16:44",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-2",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990001",
+            "productName": "早餐两件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900101",
+                "name": "猪柳蛋麦满分",
+                "quantity": 1
+              },
+              {
+                "productCode": "900104",
+                "name": "鲜萃冰咖",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0002",
+        "orderType": "2",
+        "createTime": "2026-08-22 18:46:30",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-3",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "900109",
+            "productName": "麦乐鸡5块",
+            "quantity": 1,
+            "comboItemList": []
+          },
+          {
+            "productCode": "900106",
+            "productName": "中薯条",
+            "quantity": 1,
+            "comboItemList": []
+          },
+          {
+            "productCode": "900107",
+            "productName": "可乐中杯",
+            "quantity": 1,
+            "comboItemList": []
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0003",
+        "orderType": "2",
+        "createTime": "2026-08-09 09:02:18",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-1",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990001",
+            "productName": "早餐两件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900101",
+                "name": "猪柳蛋麦满分",
+                "quantity": 1
+              },
+              {
+                "productCode": "900103",
+                "name": "优品豆浆小杯",
+                "quantity": 1
+              }
+            ]
+          },
+          {
+            "productCode": "900108",
+            "productName": "菠萝派",
+            "quantity": 1,
+            "comboItemList": []
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0004",
+        "orderType": "2",
+        "createTime": "2026-07-28 08:40:55",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-2",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990002",
+            "productName": "早餐三件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900101",
+                "name": "猪柳蛋麦满分",
+                "quantity": 1
+              },
+              {
+                "productCode": "900102",
+                "name": "脆薯饼",
+                "quantity": 1
+              },
+              {
+                "productCode": "900104",
+                "name": "鲜萃冰咖",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0005",
+        "orderType": "2",
+        "createTime": "2026-07-15 12:31:09",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-3",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990003",
+            "productName": "午餐三件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900105",
+                "name": "板烧鸡腿堡",
+                "quantity": 1
+              },
+              {
+                "productCode": "900106",
+                "name": "中薯条",
+                "quantity": 1
+              },
+              {
+                "productCode": "900107",
+                "name": "可乐中杯",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0006",
+        "orderType": "1",
+        "createTime": "2026-07-02 08:05:37",
+        "beType": "1",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-1",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990001",
+            "productName": "早餐两件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900101",
+                "name": "猪柳蛋麦满分",
+                "quantity": 1
+              },
+              {
+                "productCode": "900103",
+                "name": "优品豆浆小杯",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0007",
+        "orderType": "2",
+        "createTime": "2026-06-20 09:20:11",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-2",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990002",
+            "productName": "早餐三件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900101",
+                "name": "猪柳蛋麦满分",
+                "quantity": 1
+              },
+              {
+                "productCode": "900102",
+                "name": "脆薯饼",
+                "quantity": 1
+              },
+              {
+                "productCode": "900103",
+                "name": "优品豆浆小杯",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0008",
+        "orderType": "2",
+        "createTime": "2026-06-11 07:58:02",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-3",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990001",
+            "productName": "早餐两件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900101",
+                "name": "猪柳蛋麦满分",
+                "quantity": 1
+              },
+              {
+                "productCode": "900104",
+                "name": "鲜萃冰咖",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "orderId": "DEMO0009",
+        "orderType": "2",
+        "createTime": "2026-06-03 08:12:40",
+        "beType": "2",
+        "beCode": "",
+        "storeCode": "DEMO-STORE-1",
+        "orderStatus": "订单已完成",
+        "orderProductList": [
+          {
+            "productCode": "990001",
+            "productName": "早餐两件套",
+            "quantity": 1,
+            "comboItemList": [
+              {
+                "productCode": "900101",
+                "name": "猪柳蛋麦满分",
+                "quantity": 1
+              },
+              {
+                "productCode": "900103",
+                "name": "优品豆浆小杯",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "query-order": [
+    {
+      "orderId": "DEMO0000",
+      "takeWay": "外送",
+      "couponCount": 1,
+      "discountRatio": 0.22
+    },
+    {
+      "orderId": "DEMO0001",
+      "takeWay": "外送",
+      "couponCount": 1,
+      "discountRatio": 0.3
+    },
+    {
+      "orderId": "DEMO0002",
+      "takeWay": "外送",
+      "couponCount": 0,
+      "discountRatio": 0.0
+    },
+    {
+      "orderId": "DEMO0003",
+      "takeWay": "外送",
+      "couponCount": 1,
+      "discountRatio": 0.35
+    },
+    {
+      "orderId": "DEMO0004",
+      "takeWay": "外送",
+      "couponCount": 1,
+      "discountRatio": 0.28
+    },
+    {
+      "orderId": "DEMO0005",
+      "takeWay": "外送",
+      "couponCount": 0,
+      "discountRatio": 0.0
+    },
+    {
+      "orderId": "DEMO0006",
+      "takeWay": "堂食",
+      "couponCount": 1,
+      "discountRatio": 0.33
+    },
+    {
+      "orderId": "DEMO0007",
+      "takeWay": "外送",
+      "couponCount": 1,
+      "discountRatio": 0.26
+    },
+    {
+      "orderId": "DEMO0008",
+      "takeWay": "外送",
+      "couponCount": 0,
+      "discountRatio": 0.0
+    },
+    {
+      "orderId": "DEMO0009",
+      "takeWay": "外送",
+      "couponCount": 1,
+      "discountRatio": 0.3
+    }
+  ],
+  "query-my-account": {
+    "availablePoint": "620",
+    "accumulativePoint": "2600",
+    "usedPoint": "1780",
+    "expiredPoint": "200",
+    "currentMouthExpirePoint": "0",
+    "nextMouthExpirePoint": "35",
+    "frozenPoint": "0"
+  },
+  "query-my-prizes": {
+    "prizes": [
+      {
+        "id": "demo0",
+        "name": "立春",
+        "prizeTypeText": "门票",
+        "recordTime": "2026-01-01 00:00:00"
+      },
+      {
+        "id": "demo1",
+        "name": "雨水",
+        "prizeTypeText": "门票",
+        "recordTime": "2026-01-01 00:00:00"
+      },
+      {
+        "id": "demo2",
+        "name": "惊蛰",
+        "prizeTypeText": "门票",
+        "recordTime": "2026-01-01 00:00:00"
+      },
+      {
+        "id": "demo3",
+        "name": "春分",
+        "prizeTypeText": "门票",
+        "recordTime": "2026-01-01 00:00:00"
+      },
+      {
+        "id": "demo4",
+        "name": "清明",
+        "prizeTypeText": "门票",
+        "recordTime": "2026-01-01 00:00:00"
+      },
+      {
+        "id": "demo5",
+        "name": "谷雨",
+        "prizeTypeText": "门票",
+        "recordTime": "2026-01-01 00:00:00"
+      },
+      {
+        "id": "demo6",
+        "name": "立夏",
+        "prizeTypeText": "门票",
+        "recordTime": "2026-01-01 00:00:00"
+      },
+      {
+        "id": "demo7",
+        "name": "小满",
+        "prizeTypeText": "门票",
+        "recordTime": "2026-01-01 00:00:00"
+      },
+      {
+        "name": "麦旋风半价券",
+        "prizeTypeText": "优惠券"
+      }
+    ]
+  },
+  "query-my-coupons": {
+    "coupons": [
+      {
+        "expiringToday": true
+      },
+      {
+        "expiringToday": false
+      },
+      {
+        "expiringToday": false
+      },
+      {
+        "expiringToday": false
+      },
+      {
+        "expiringToday": false
+      },
+      {
+        "expiringToday": false
+      }
+    ],
+    "totalCount": 6
+  },
+  "mall-order-list": {
+    "count": 4
+  },
+  "list-nutrition-foods": "[9]{productName,nutritionDescription,energyKj,energyKcal,protein,fat,carbohydrate,sodium,calcium}:\n  猪柳蛋麦满分,null,1600,380,23,21,25,850,240\n  脆薯饼,null,560,130,1,8,14,250,10\n  优品豆浆小杯,null,630,150,8,5,18,40,60\n  鲜萃冰咖,null,40,10,1,0,1,10,10\n  板烧鸡腿堡,null,1640,390,25,16,37,1050,80\n  中薯条,null,1210,290,4,12,38,170,20\n  可乐中杯,null,620,150,0,0,37,10,0\n  菠萝派,null,920,220,2,11,27,150,5\n  麦乐鸡5块,null,890,210,12,12,13,420,10"
+}

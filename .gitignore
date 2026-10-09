@@ -1,0 +1,12 @@
+# 本地密钥（MCP Token），绝不提交
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# 打包给 WorkBuddy 上传的 Skill 压缩包
+*.zip
